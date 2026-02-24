@@ -1,0 +1,5 @@
+{
+  "name": "DataReconcile",
+  "description": "A data cleaning and reconciliation tool that compares and corrects employee names using fuzzy string matching.",
+  "requestFramePermissions": []
+}
